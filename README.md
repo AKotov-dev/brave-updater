@@ -20,7 +20,7 @@ The browser update is performed **once per day**, **5 minutes after system start
   [/etc/brave-updater/brave-updater.sh](https://github.com/AKotov-dev/brave-updater/blob/main/etc/brave-updater/brave-updater.sh)
 
 - systemd service:  
-  [brave-updater.service](https://github.com/AKotov-dev/brave-updater/blob/main/etc/systemd/system/brave-updater.service)
+  [/etc/systemd/system/brave-updater.service](https://github.com/AKotov-dev/brave-updater/blob/main/etc/systemd/system/brave-updater.service)
 
 - State file (is being created in the work):  
   `/etc/brave-updater/date_stamp`
